@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+![Alt Text](https://github.com/Eternal-Monarch/live_test/blob/master/portait%20mood.png)
+
+![Alt Text](https://github.com/Eternal-Monarch/live_test/blob/master/landscapre%20mood.png)
+
+
+
+
